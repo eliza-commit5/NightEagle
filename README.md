@@ -4,7 +4,7 @@
 > Sector focus: Quantum technology, semiconductors, AI/LLM, military-industrial
 > Maintainer: _Eliza / elizacommit5_
 
-A standing intelligence reference on **NightEagle**, the suspected North American APT
+A standing intelligence reference on **NightEagle**, the suspected APT
 notable for being the only publicly named threat actor with **quantum technology listed
 as a discrete target vertical**. This page also catalogues the broader set of APTs that
 target the quantum sector under wider "high-tech IP theft" mandates, so the claim above
