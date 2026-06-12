@@ -2,7 +2,7 @@
 
 > **TLP:CLEAR** · Curated CTI reference · Last updated: 2026-06-12
 > Sector focus: Quantum technology, semiconductors, AI/LLM, military-industrial
-> Maintainer: _<your handle here>_
+> Maintainer: _Eliza / elizacommit5_
 
 A standing intelligence reference on **NightEagle**, the suspected North American APT
 notable for being the only publicly named threat actor with **quantum technology listed
