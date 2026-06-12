@@ -308,7 +308,7 @@ without naming it separately. Publish the claim with that nuance.
 
 - **Publish NightEagle as: "the only named APT with quantum technology as an explicitly
   enumerated target vertical"** — accurate and defensible.
-- **Do not publish: "the only APT targeting quantum"** — the PRC ecosystem (APT41/31/27/10,
+- The PRC ecosystem (APT41/31/27/10,
   Jewelbug) targets quantum R&D under broad high-tech IP-theft mandates, and quantum is a
   named *national* collection priority per the FBI. NightEagle is distinctive for *specificity
   and inverted attribution*, not for being alone in the space.
